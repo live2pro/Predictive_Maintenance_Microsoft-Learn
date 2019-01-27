@@ -4,3 +4,4 @@ This is predictive analysis notebook from Microsoft Azure for learning purpose. 
 
 https://gallery.azure.ai/Notebook/Predictive-Maintenance-Modelling-Guide-Python-Notebook-1
 
+To see the code, open the Jupyter Notebook file "Predictive Maintenance Microsoft Learn.ipynb" 
